@@ -217,4 +217,11 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
  </details>
  </div>
  
+<details>
+  
+<summary> ✏ Creating Your Own Private Ethereum Test Netwok </summary>
+
+</details>
+</div>
+
  
