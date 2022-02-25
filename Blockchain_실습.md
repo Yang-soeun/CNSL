@@ -213,7 +213,42 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
   
 <summary> ✏ Connecting to the Ethereum Blockchain </summary>
 <div markdown="1">
+
+- 이더리움 블록체인과 상호 작용하는데 사용할 수 있는 많은 이더리움 클라이언트가 있다.
+    - Eth : A C++ Ethereum client
+    - ` Geth : The official Ethereum dlient implemented using the Go programing language `
   
+    - Pyethapp : A Python Ethereum client
+    - Parit : An Ethereum client written using the Rust Programming language
+  
+- Geth를 사용.
+  
+### 📑 Installing Geth for Windows
+  
+- https://geth.ethereum.org/downloads/
+    - 윈도우 버전 Geth 다운로드
+  
+- 최신 버전은 --testnet이 오류가 발생함.
+- https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.9.5-a1c09b93.exe 이걸로 다운로드 받아야함.
+  
+### 📑 Getting Started with Geth
+ - Geth를 사용하여 이더리움 블록체인에 연결
+  
+ ` $ geth --testnet --datadir ~/.ethereum-testnet`
+  
+ - --testnet: connect to the Ropsten test network.
+    - Rinkeby 테스트 네트워크에 연결하고 싶다면 --rinkeby 사용.
+ - --datadir: 블록체인, 키 저장소 및 기타 로컬 클라이언트 데이터를 저장하는데 사용할 로컬 저장소를 지정.
+  
+ - 실행결과: 네트워크의 전체 블록체인이 컴퓨터에 다운로드 되고, ~/.ethereum-testnet에 저장된다.
+
+### 📑 Examing the Data Downloaded
+![Data download](https://user-images.githubusercontent.com/87464750/155263592-20c0f9af-83ec-4964-8897-2fb7fd04317a.png)
+  
+- 
+  
+ 
+ 
  </details>
  </div>
  
@@ -224,4 +259,10 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
 </details>
 </div>
 
+<details>
+  
+<summary> ✏ Using the MetaMask Chrome extension </summary>
+
+</details>
+</div>
  
