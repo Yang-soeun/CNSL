@@ -244,9 +244,6 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
 
 ### 📑 Examing the Data Downloaded
 ![Data download](https://user-images.githubusercontent.com/87464750/155263592-20c0f9af-83ec-4964-8897-2fb7fd04317a.png)
-  
-- 
-  
  
  
  </details>
