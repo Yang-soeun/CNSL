@@ -1,5 +1,5 @@
-# 📌 Blockchain
-## 📝블록체인 구조
+# ⭐ Blockchain
+## ✏ 블록체인 구조
 <details>
 
 <summary> 블록체인 구조 </summary>
@@ -111,5 +111,64 @@
 </details>
  </div>
   
+</details>
+ </div>
+
+## ✏ P2P 네트워크
+
+## ✏ 합의 알고리즘
+<details>
+
+<summary> 합의 알고리즘이란? </summary>
+<div markdown="1">
+ 
+</details>
+ </div>
+ 
+<details>
+
+<summary> PoW(Proof of Work) </summary>
+<div markdown="1">
+ 
+</details>
+ </div>
+ 
+ <details>
+
+<summary> PoS(Proof of Stake) </summary>
+<div markdown="1">
+ 
+</details>
+ </div>
+ 
+ <details>
+
+<summary> PBFT </summary>
+<div markdown="1">
+ 
+</details>
+ </div>
+ 
+ <details>
+
+<summary> Sieve </summary>
+<div markdown="1">
+ 
+</details>
+ </div>
+ 
+<details>
+
+<summary> Paxos </summary>
+<div markdown="1">
+ 
+</details>
+ </div>
+ 
+ <details>
+
+<summary> Raft </summary>
+<div markdown="1">
+ 
 </details>
  </div>
