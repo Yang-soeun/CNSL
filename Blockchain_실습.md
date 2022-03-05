@@ -245,6 +245,23 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
 ### 📑 Examing the Data Downloaded
 ![Data download](https://user-images.githubusercontent.com/87464750/155263592-20c0f9af-83ec-4964-8897-2fb7fd04317a.png)
  
+ - ~/.ethereum-testnet 디렉토리에서 Geth가 만든 폴더를 볼 수 있다.
+ - The geth folder contains the blockchain that you are downloading, while the keystore folder contains the account details of your local Ehtereum node.
+  
+### 📑 Geth javaScript Console
+- To use the Geth JavaScript Console, add the following option in bold to the geth command in the Terminal.
+  
+` geth --testnet --datadir ~/.ethereum-testnet console 2>console.log `
+  
+ ![javaScript Console](https://user-images.githubusercontent.com/87464750/156876859-18f371c3-5265-4c1c-af78-7a4d1d90e40b.png)
+ 
+- The command Prompt allows you to issue JavaScript commands
+  
+` personal.newAccount()`
+  
+![newAccount()](https://user-images.githubusercontent.com/87464750/156876920-a1add10a-f355-4581-8a5d-b49ebbfa199c.png)
+  
+> We will discuss more Geth commands in the next chapter.
  
  </details>
  </div>
@@ -259,13 +276,6 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
 <details>
   
 <summary> ✏ Using the MetaMask Chrome extension </summary>
-
-</details>
-</div>
-
-<details>
-  
-<summary> ✏ Meta Mask </summary>
 
 </details>
 </div>
