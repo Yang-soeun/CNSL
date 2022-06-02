@@ -228,7 +228,7 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
 - https://geth.ethereum.org/downloads/
     - 윈도우 버전 Geth 다운로드
   
-- 최신 버전은 --testnet이 오류가 발생함.
+📌 최신 버전은 --testnet이 오류가 발생함.
 - https://gethstore.blob.core.windows.net/builds/geth-windows-amd64-1.9.5-a1c09b93.exe 이걸로 다운로드 받아야함.
   
 ### 📑 Getting Started with Geth
