@@ -1,6 +1,16 @@
 ## ⭐ Blockchain_이론
-## ⭐ Blockchain_실습
 
+> [합의 알고리즘](https://github.com/Yang-soeun/CNSL/files/10706168/default.pdf)
+
+> [이더리움](https://github.com/Yang-soeun/CNSL/files/10706133/default.pdf)
+
+[참고문헌]
+- 블록체인 구조와 이론 예제로 배우는 핀테크 핵심 기술
+
+
+## ⭐ Blockchain_실습
+> [블록체인 개념 & 파이썬을 이용한 블록체인 구현](https://github.com/Yang-soeun/CNSL/files/10706146/default.pdf)
+> 
 <details>
   
 <summary> ✏ Testing Blockchain </summary>
@@ -268,9 +278,14 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
  </div>
  
  ## 📝 머신러닝
+> [머신러닝.pdf](https://github.com/Yang-soeun/CNSL/files/10706068/default.pdf)
+
+참고문헌 - 핸즈온 머신러닝 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무
+
  ## 📝 컴퓨터 보안과 암호
 > [공개키-암호와-RSA](https://github.com/Yang-soeun/CNSL/files/10689194/-.-RSA.pdf)
 
+참고문헌 - Cryptography and network security - Principles and Practice, William Stallings, Pearson.
 
 
 
