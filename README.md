@@ -6,7 +6,7 @@
 
 [참고문헌]
 - 블록체인 구조와 이론 예제로 배우는 핀테크 핵심 기술
-
+- 마스터링 이더리움:스마트 컨트랙트 및 댑 구축하기
 
 ## ⭐ Blockchain_실습
 > [블록체인 개념 & 파이썬을 이용한 블록체인 구현](https://github.com/Yang-soeun/CNSL/files/10706146/default.pdf)
