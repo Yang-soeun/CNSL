@@ -10,7 +10,7 @@
 
 ## ⭐ Blockchain_실습
 > [블록체인 개념 & 파이썬을 이용한 블록체인 구현](https://github.com/Yang-soeun/CNSL/files/10706146/default.pdf)
-> 
+
 <details>
   
 <summary> ✏ Testing Blockchain </summary>
