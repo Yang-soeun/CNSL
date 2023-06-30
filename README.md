@@ -1,6 +1,6 @@
 ## 📖 북스터디 활동
 ## ⭐ Blockchain_이론
-
+[발표자료]
 > [합의 알고리즘](https://github.com/Yang-soeun/CNSL/files/10706168/default.pdf)
 
 > [이더리움](https://github.com/Yang-soeun/CNSL/files/10706133/default.pdf)
@@ -10,6 +10,7 @@
 - 마스터링 이더리움:스마트 컨트랙트 및 댑 구축하기
 
 ## ⭐ Blockchain_실습
+[발표자료]
 > [블록체인 개념 & 파이썬을 이용한 블록체인 구현](https://github.com/Yang-soeun/CNSL/files/10706146/default.pdf)
 
 <details>
@@ -279,11 +280,13 @@ $ curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"04d0988bfa
  </div>
  
  ## 📝 머신러닝
+ [발표자료]
 > [머신러닝.pdf](https://github.com/Yang-soeun/CNSL/files/10706068/default.pdf)
 
 참고문헌 - 핸즈온 머신러닝 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무
 
  ## 📝 컴퓨터 보안과 암호
+ [발표자료]
 > [공개키-암호와-RSA](https://github.com/Yang-soeun/CNSL/files/10689194/-.-RSA.pdf)
 
 참고문헌 - Cryptography and network security - Principles and Practice, William Stallings, Pearson.
